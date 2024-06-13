@@ -3,6 +3,7 @@
 
 template <typename Type,typename Type2>
 /*クラス名「TemplateClass」でクラステンプレート定義*/
+
 class TemplateClass
 {
 public:
